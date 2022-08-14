@@ -1,0 +1,19 @@
+body{
+    font-family: 'DynaPuff', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name-hightligst{
+    color: orange;
+}
+.hafe-writh{
+    width: 40% ;
+    float: left;
+   margin-left: 5%;
+   padding-left: 2%;
+
+}
+.hafe-writh img{
+    width: 100%;
+}
